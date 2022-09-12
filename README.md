@@ -7,3 +7,12 @@ Alzheimer’s disease (AD) is a common, age-related, neurodegenerative disease t
 ## Conclusion  
 The machine learning techniques presented in this study may assist providers with identifying different progression rates and trajectories in the early stages of disease progression, hence allowing for more efficient and unique care deliveries.  
 
+## Machine learning algorithms used in the project
+
+- LogisticRegression  
+- RandomForestClassifier  
+- KNeighborsClassifier  
+- MLPClassifier  
+- SVM  
+- GaussianNB  
+- DecisionTreeClassifier
